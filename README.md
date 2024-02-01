@@ -1,7 +1,7 @@
 # 1️⃣ 시연 영상
 https://github.com/mango606/knu-fe-vcs-spa/assets/75062110/153b2ccf-70ee-4104-9ef0-3067359b8929
 
-# 2️⃣ 발표 자료.[pdf](https://drive.google.com/file/d/1VF3T5FtCfm7c1RXabNRZoPD0JCJ-Uh66/view?usp=sharing)
+# 2️⃣ 발표 자료.[pdf](https://drive.google.com/file/d/1QRDq6khLWWixOJg-8Q9lY0YJP6hInNzG/view?usp=sharing)
 ![1](https://github.com/mango606/knu-fe-vcs-spa/assets/75062110/60c82936-da0c-46fa-985d-b47aae02ac75)
 ![2](https://github.com/mango606/knu-fe-vcs-spa/assets/75062110/206e8992-b7e8-4156-be18-8a61c8342af4)
 ![3](https://github.com/mango606/knu-fe-vcs-spa/assets/75062110/72f991eb-f932-4195-a8d0-8f3d6411a268)
